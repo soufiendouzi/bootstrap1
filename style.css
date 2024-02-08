@@ -1,0 +1,37 @@
+*{
+    background-color: rgb(238, 226, 64);
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.menu{
+    text-align: center;
+    color: aqua;
+    font-style: italic;
+    margin-bottom: 3%;
+    margin-top: 2%;
+} 
+.rmenu{
+    display: flex;
+    justify-content: space-evenly;
+}
+.about{
+    margin-top: 3%;
+    margin-left: 3%;
+    margin-right: 25%;
+}
+.contact{
+    margin-top: 5%;
+    margin-left: 3%;
+    margin-right: 60%; 
+    
+
+}
+h3{ 
+    text-align: center;
+    color: rgb(148, 76, 216);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
